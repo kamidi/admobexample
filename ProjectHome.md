@@ -1,0 +1,1 @@
+an simple app to intro how to add admob in your android project
